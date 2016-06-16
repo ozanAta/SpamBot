@@ -1,1 +1,0 @@
-node node_modules/nightwatch/bin/runner.js -t ./tests/google_test.js
